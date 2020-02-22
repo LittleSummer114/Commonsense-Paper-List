@@ -26,7 +26,7 @@ A summary of must-read papers for Commonsense Reasoning
 </tr>
 <tr><td colspan="2"><a href="#applications">2. Applications</a></td></tr> 
 <tr>
-    <td>&emsp;<a href="#difficulty-controllable-QG">2.1 Difficulty Controllable QG</a></td>
+    <td>&emsp;<a href="#difficulty-controllable-QG">2.1 Story Generation QG</a></td>
     <td>&ensp;<a href="#conversational-QG">2.2 Conversational QG</a></td>
 </tr> 
 <tr>
