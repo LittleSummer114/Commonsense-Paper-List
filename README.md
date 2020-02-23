@@ -23,7 +23,7 @@ A summary of must-read papers for Commonsense
     <td><a href="#Event Representation">3.2.1.2 Event Representation</a></td>
 </tr>
         <tr>
-    <td colspan="2">&emsp;&emsp;<a href="#Specific Task">3.2.2 Task-specific</a></td>
+    <td colspan="2">&emsp;&emsp;<a href="#Specific Task">3.2.2 Specific Taskc</a></td>
 </tr>
     <tr>
     <td colspan="2">&emsp;&emsp;&emsp;<a href="#Commonsense Reasoning">3.2.2.1 Commonsense Reasoning</a></td>
@@ -52,7 +52,7 @@ A summary of must-read papers for Commonsense
     
     *Liangming Pan, Wenqiang Lei, Tat-Seng Chua, Min-Yen Kan.* 
 
-## [Models](#content)   
+## [Commonsense Knowledge Acquisition](#content)   
 
 ### [Basic Seq2Seq Models](#basic-models)
 
