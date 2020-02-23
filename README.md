@@ -90,11 +90,11 @@ Actually, I don not get the dataset. -- 2020.2.23
     *Raghav Goyal, Samira Ebrahimi Kahou, Vincent Michalski, Joanna Materzynska, Susanne Westphal, Heuna Kim, Valentin Haenel, Ingo Fründ, Peter Yianilos, Moritz Mueller-Freitag, Florian Hoppe, Christian Thurau, Ingo Bax, Roland Memisevic.* 
  10. **Stating the Obvious: Extracting Visual Common Sense Knowledge.** NAACL, 2016. [paper](https://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS16/paper/view/12785)
  
-   *Mark Yatskar, Vicente Ordonez, Ali Farhadi.* 
+     *Mark Yatskar, Vicente Ordonez, Ali Farhadi.* 
    
  11. **GECKA3D: A 3D Game Engine for Commonsense Knowledge Acquisition.** FLAIRS Conference, 2016. [paper](https://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS16/paper/view/12785)
  
-   *Erik Cambria, Tam V. Nguyen, Brian Cheng, Kenneth Kwok, Jose Sepulveda.* 
+     *Erik Cambria, Tam V. Nguyen, Brian Cheng, Kenneth Kwok, Jose Sepulveda.* 
     
 ### [Commonsense Knowledge Updating](#content)
 
