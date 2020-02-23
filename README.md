@@ -83,16 +83,19 @@ Actually, I don not get the dataset. -- 2020.2.23
     
     *Guillem Collell, Luc Van Gool, Marie-Francine Moens.* 
  8. **ConceptNet 5.5: An Open Multilingual Graph of General Knowledge.** AAAI, 2017. [paper](http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14972) [dataset](http://conceptnet.io/) [code](https://github.com/commonsense/conceptnet5) 
+    
     *Robyn Speer, Joshua Chin, Catherine Havasi.* 
  9. **The "Something Something" Video Database for Learning and Evaluating Visual Common Sense.** ICCV, 2017. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8237884) 
  
     *Raghav Goyal, Samira Ebrahimi Kahou, Vincent Michalski, Joanna Materzynska, Susanne Westphal, Heuna Kim, Valentin Haenel, Ingo Fründ, Peter Yianilos, Moritz Mueller-Freitag, Florian Hoppe, Christian Thurau, Ingo Bax, Roland Memisevic.* 
- 10. **Stating the Obvious: Extracting Visual Common Sense Knowledge.** NAACL, 2016. [paper](https://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS16/paper/view/12785) 
+ 10. **Stating the Obvious: Extracting Visual Common Sense Knowledge.** NAACL, 2016. [paper (https://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS16/paper/view/12785)
  
-    *Mark Yatskar, Vicente Ordonez, Ali Farhadi.* 
- 11. **GECKA3D: A 3D Game Engine for Commonsense Knowledge Acquisition.** FLAIRS Conference, 2016. [paper](https://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS16/paper/view/12785) 
+   *Mark Yatskar, Vicente Ordonez, Ali Farhadi.* 
+   
+ 11. **GECKA3D: A 3D Game Engine for Commonsense Knowledge Acquisition.** FLAIRS Conference, 2016. [paper (https://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS16/paper/view/12785)
  
-    *Erik Cambria, Tam V. Nguyen, Brian Cheng, Kenneth Kwok, Jose Sepulveda.* 
+  *Erik Cambria, Tam V. Nguyen, Brian Cheng, Kenneth Kwok, Jose Sepulveda.* 
+    
 ### [Commonsense Knowledge Updating](#content)
 
 ## [Commonsense Making and Explanation](#content)   
