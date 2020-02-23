@@ -57,11 +57,13 @@ How to generate knowledge, from scratch (Commonsense Knowledge Generation) ? or 
     *Maarten Sap, Ronan Le Bras, Emily Allaway, Chandra Bhagavatula, Nicholas Lourie, Hannah Rashkin, Brendan Roof, Noah A. Smith, Yejin Choi.* 
 
 This is a commonsense knowledge base, which cares about the If-Then relations.
+
 2. **CA-EHN: Commonsense Word Analogy from E-HowNet.** arxiv, 2019. [paper](https://arxiv.org/abs/1908.07218) [dataset](https://github.com/jacobvsdanniel)
     
     *Peng-Hsuan Li, Tsan-Yu Yang, Wei-Yun Ma.* 
     
 Actually, I don not get the dataset. -- 2020.2.23
+
 3. **A Logical Model for Supporting Social Commonsense Knowledge Acquisition.** arxiv, 2019. [paper](https://arxiv.org/abs/1912.11599) [dataset](https://homes.cs.washington.edu/~msap/atomic/)
     
     *Maarten Sap, Ronan Le Bras, Emily Allaway, Chandra Bhagavatula, Nicholas Lourie, Hannah Rashkin, Brendan Roof, Noah A. Smith, Yejin Choi.* 
@@ -73,9 +75,11 @@ Actually, I don not get the dataset. -- 2020.2.23
 5. **A Logical Model for Supporting Social Commonsense Knowledge Acquisition.** arxiv, 2019. [paper](https://arxiv.org/abs/1912.11599) [dataset](https://homes.cs.washington.edu/~msap/atomic/)
     
     *Maarten Sap, Ronan Le Bras, Emily Allaway, Chandra Bhagavatula, Nicholas Lourie, Hannah Rashkin, Brendan Roof, Noah A. Smith, Yejin Choi.* 
+    
 6. **A Logical Model for Supporting Social Commonsense Knowledge Acquisition.** arxiv, 2019. [paper](https://arxiv.org/abs/1912.11599) [dataset](https://homes.cs.washington.edu/~msap/atomic/)
     
     *Maarten Sap, Ronan Le Bras, Emily Allaway, Chandra Bhagavatula, Nicholas Lourie, Hannah Rashkin, Brendan Roof, Noah A. Smith, Yejin Choi.* 
+    
 7. **A Logical Model for Supporting Social Commonsense Knowledge Acquisition.** arxiv, 2019. [paper](https://arxiv.org/abs/1912.11599) [dataset](https://homes.cs.washington.edu/~msap/atomic/)
     
     *Maarten Sap, Ronan Le Bras, Emily Allaway, Chandra Bhagavatula, Nicholas Lourie, Hannah Rashkin, Brendan Roof, Noah A. Smith, Yejin Choi.* 
