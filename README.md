@@ -48,17 +48,14 @@ A summary of must-read papers for Commonsense
 </table>
 
 ## [Survey papers](#content)
-1. **Recent Advances in Neural Question Generation.** arxiv, 2018. [paper](https://arxiv.org/pdf/1905.08949.pdf)
-    
-    *Liangming Pan, Wenqiang Lei, Tat-Seng Chua, Min-Yen Kan.* 
 
 ## [Commonsense Knowledge Acquisition](#content)   
-1. **Recent Advances in Neural Question Generation.** arxiv, 2018. [paper](https://arxiv.org/pdf/1905.08949.pdf)
-    
-    *Liangming Pan, Wenqiang Lei, Tat-Seng Chua, Min-Yen Kan.* 
-
+How to generate knowledge, from scratch (Commonsense Knowledge Generation) ? or based on existed ones (Commonsense Knowledge Updating) ?
 ### [Commonsense Knowledge Generation](#content)
-
+1. **ATOMIC: An Atlas of Machine Commonsense for If-Then Reasoning.** AAAI, 2019. [paper](https://aaai.org/ojs/index.php/AAAI/article/view/4160) [dataset](https://homes.cs.washington.edu/~msap/atomic/)
+    
+    *Maarten Sap, Ronan Le Bras, Emily Allaway, Chandra Bhagavatula, Nicholas Lourie, Hannah Rashkin, Brendan Roof, Noah A. Smith, Yejin Choi.* 
+    
 ### [Commonsense Knowledge Updating](#content)
 
 ## [Commonsense Making and Explanation](#content)   
