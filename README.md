@@ -12,28 +12,15 @@ A summary of must-read papers for Commonsense
     <td>&emsp;<a href="#Commonsense Knowledge Generation">2.1 Commonsense Knowledge Generation</a></td>
     <td>&ensp;<a href="#Commonsense Knowledge Updating">2.2 Commonsense Knowledge Updating"</a></td>
 </tr>
-<tr><td colspan="2"><a href="#Commonsense Making and Explanation">2. Commonsense Making and Explanation</a></td></tr> 
+<tr><td colspan="2"><a href="#Commonsense Making and Explanation">3. Commonsense Making and Explanation</a></td></tr> 
 <tr>
-    <td>&emsp;<a href="#Direct Sense Making and Explanation">2.1 Direct Sense Making and Explanation</a></td>
-    <td>&ensp;<a href="#indirect Sense Making ">2.2 Indirect Sense Making </a></td>
+    <td>&emsp;<a href="#Direct Sense Making and Explanation">3.1 Direct Sense Making and Explanation</a></td>
+    <td>&ensp;<a href="#indirect Sense Making ">3.2 Indirect Sense Making </a></td>
+    <tr>
+    <td>&emsp;<a href="#Commonsense Knowledge Generation">2.1 Commonsense Knowledge Generation</a></td>
+    <td>&ensp;<a href="#Commonsense Knowledge Updating">2.2 Commonsense Knowledge Updating"</a></td>
+</tr>
 </tr> 
-<tr>
-    <td>&emsp;<a href="#asking-special-questions">2.3 Asking special questions</a></td>
-    <td>&ensp;<a href="#answer-unaware-QG">2.4 Answer-unaware QG</a></td>
-</tr>
-<tr>
-    <td>&emsp;<a href="#unanswerable-QG">2.5 Unanswerable QG</a></td>
-    <td>&ensp;<a href="#combining-QA-and-QG">2.6 Combining QA and QG</a></td>
-</tr>
-<tr>
-    <td>&emsp;<a href="#QG-from-knowledge-graphs">2.7 QG from knowledge graphs</a></td>
-    <td>&ensp;<a href="#visual-question-generation">2.8 Visual Question Generation</a></td>
-</tr> 
-<tr>
-    <td>&emsp;<a href="#distractor-generation">2.9 Distractor Generation</a></td>
-    <td>&ensp;</td>
-</tr>
-<tr><td colspan="2"><a href="#evaluation">3. Evaluation</a></td></tr>
 <tr><td colspan="2"><a href="#resources">4. Resources</a></td></tr>
 </table>
 
