@@ -13,7 +13,7 @@ A summary of must-read papers for Commonsense
     <td><a href="#Commonsense Knowledge Updating">2.2 Commonsense Knowledge Updating</a></td>
 </tr>
 <tr><td colspan="2"><a href="#Commonsense Making and Explanation">3. Commonsense Making and Explanation</a></td></tr> 
-<tr><td>&emsp;<a href="#Direct Sense Making and Explanation">3.1 Direct Sense Making and Explanation</a></td></tr>
+<tr><td >&emsp;<a href="#Direct Sense Making and Explanation">3.1 Direct Sense Making and Explanation</a></td></tr>
 <tr><td>&emsp;<a href="#Indirect Sense Making">3.2 Indirect Sense Making</a></td></tr>
     <tr>
     <td>&emsp;&emsp;<a href="#Representation">3.2.1 Representation</a></td>
