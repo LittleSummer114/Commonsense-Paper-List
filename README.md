@@ -57,32 +57,32 @@ How to generate knowledge, from scratch (Commonsense Knowledge Generation) ? or 
     *Maarten Sap, Ronan Le Bras, Emily Allaway, Chandra Bhagavatula, Nicholas Lourie, Hannah Rashkin, Brendan Roof, Noah A. Smith, Yejin Choi.* 
 
 This is a commonsense knowledge base, which cares about the If-Then relations.
-
-2. **CA-EHN: Commonsense Word Analogy from E-HowNet.** arxiv, 2019. [paper](https://arxiv.org/abs/1908.07218) [dataset](https://github.com/jacobvsdanniel)
+    
+2. **Commonsense Properties from Query Logs and Question Answering Forums.** CIKM, 2019. [paper](https://dl.acm.org/doi/10.1145/3357384.33579559) [dataset&code](https://github.com/Aunsiels/CSK)
+    
+    *Julien Romero, Simon Razniewski, Koninika Pal, Jeff Z. Pan, Archit Sakhadeo, Gerhard Weikum.* 
+    
+3. **CA-EHN: Commonsense Word Analogy from E-HowNet.** arxiv, 2019. [paper](https://arxiv.org/abs/1908.07218) [dataset](https://github.com/jacobvsdanniel)
     
     *Peng-Hsuan Li, Tsan-Yu Yang, Wei-Yun Ma.* 
     
 Actually, I don not get the dataset. -- 2020.2.23
 
-3. **A Logical Model for Supporting Social Commonsense Knowledge Acquisition.** arxiv, 2019. [paper](https://arxiv.org/abs/1912.11599) [dataset](https://homes.cs.washington.edu/~msap/atomic/)
+4. **A Logical Model for Supporting Social Commonsense Knowledge Acquisition.** arxiv, 2019. [paper](https://arxiv.org/abs/1912.11599) 
     
     *Maarten Sap, Ronan Le Bras, Emily Allaway, Chandra Bhagavatula, Nicholas Lourie, Hannah Rashkin, Brendan Roof, Noah A. Smith, Yejin Choi.* 
     
-4. **Automatic Extraction of Commonsense LocatedNear Knowledge.** ACL, 2018. [paper](https://www.aclweb.org/anthology/P18-2016/) [dataset&code](https://github.com/adapt-sjtu/commonsense-locatednear)
+5. **Automatic Extraction of Commonsense LocatedNear Knowledge.** ACL, 2018. [paper](https://www.aclweb.org/anthology/P18-2016/) [dataset&code](https://github.com/adapt-sjtu/commonsense-locatednear)
     
     *Frank F. Xu, Bill Y. Lin, Kenny Q. Zhu.* 
     
-5. **A Logical Model for Supporting Social Commonsense Knowledge Acquisition.** arxiv, 2019. [paper](https://arxiv.org/abs/1912.11599) [dataset](https://homes.cs.washington.edu/~msap/atomic/)
+6. **Extracting Commonsense Properties from Embeddings with Limited Human Guidance.** ACL, 2018. [paper](https://www.aclweb.org/anthology/P18-2102/) [dataset&code](https://github.com/yangyiben/PCE) [presentation](https://vimeo.com/285805855/) [slide](https://www.aclweb.org/anthology/attachments/P18-2102.Presentation.pdf/)
     
-    *Maarten Sap, Ronan Le Bras, Emily Allaway, Chandra Bhagavatula, Nicholas Lourie, Hannah Rashkin, Brendan Roof, Noah A. Smith, Yejin Choi.* 
+    *Yiben Yang, Larry Birnbaum, Ji-Ping Wang, Doug Downey.* 
     
-6. **A Logical Model for Supporting Social Commonsense Knowledge Acquisition.** arxiv, 2019. [paper](https://arxiv.org/abs/1912.11599) [dataset](https://homes.cs.washington.edu/~msap/atomic/)
+7. **GECKA3D: A 3D Game Engine for Commonsense Knowledge Acquisition.** FLAIRS Conference, 2016. [paper](https://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS16/paper/view/12785) 
     
-    *Maarten Sap, Ronan Le Bras, Emily Allaway, Chandra Bhagavatula, Nicholas Lourie, Hannah Rashkin, Brendan Roof, Noah A. Smith, Yejin Choi.* 
-    
-7. **A Logical Model for Supporting Social Commonsense Knowledge Acquisition.** arxiv, 2019. [paper](https://arxiv.org/abs/1912.11599) [dataset](https://homes.cs.washington.edu/~msap/atomic/)
-    
-    *Maarten Sap, Ronan Le Bras, Emily Allaway, Chandra Bhagavatula, Nicholas Lourie, Hannah Rashkin, Brendan Roof, Noah A. Smith, Yejin Choi.* 
+    *Erik Cambria, Tam V. Nguyen, Brian Cheng, Kenneth Kwok, Jose Sepulveda.* 
     
 ### [Commonsense Knowledge Updating](#content)
 
