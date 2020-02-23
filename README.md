@@ -7,7 +7,7 @@ A summary of must-read papers for Commonsense
 
 <table>
 <tr><td colspan="2"><a href="#survey-papers">1. Survey</a></td></tr> 
-<tr><td colspan="2"><a href="#Commonsense Knowledge Acquisition">2. Commonsense Knowledge Acquisition</a></td></tr>
+<tr><td colspan="2"><a href="#commonsense-knowledge-Acquisition">2. Commonsense Knowledge Acquisition</a></td></tr>
 <tr>
     <td>&emsp;<a href="#Commonsense Knowledge Generation">2.1 Commonsense Knowledge Generation</a></td>
     <td><a href="#Commonsense Knowledge Updating">2.2 Commonsense Knowledge Updating</a></td>
