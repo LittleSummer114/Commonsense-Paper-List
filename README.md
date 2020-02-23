@@ -32,6 +32,20 @@ A summary of must-read papers for Commonsense
     <td>&emsp;&emsp;&emsp;<a href="#Textual Commonsense Reasoning">3.2.2.1.1 Textual Commonsense Reasoning</a></td>
     <td><a href="#Visual Commonsense Reasoning">3.2.2.1.2 Visual Commonsense Reasoning</a></td>
 </tr>
+    <tr><td>&emsp;&emsp;&emsp;<a href="#Commonsense Question Answering">3.2.2.2 Commonsense Question Answering</a></td></tr>
+    <tr><td>&emsp;&emsp;&emsp;<a href="#Commonsense Reading Comprehension">3.2.2.3 Commonsense Reading Comprehension</a></td></tr>
+        <tr><td>&emsp;&emsp;&emsp;<a href="#Understanding of Commonsense Stories">3.2.2.4 Understanding of Commonsense Stories</a></td></tr>
+    <tr><td>&emsp;&emsp;&emsp;<a href="#Sentiment Analysis">3.2.2.5 Sentiment Analysis</a></td></tr>
+       <tr><td>&emsp;&emsp;&emsp;<a href="#Sentiment Analysis">3.2.2.6 Dialogue </a></td></tr>
+       <tr><td>&emsp;&emsp;&emsp;<a href="#Sentiment Analysis">3.2.2.7 Abstractive Summarization</a></td></tr>
+     <tr><td>&emsp;&emsp;&emsp;<a href="#Sentiment Analysis">3.2.2.8 Text Generation</a></td></tr>
+       <tr>
+    <td>&emsp;&emsp;&emsp;<a href="#Commonsense Reasoning">3.2.2.9 Others</a></td>
+</tr>
+        <tr>
+    <td>&emsp;&emsp;&emsp;<a href="#Textual Taks">3.2.2.9.1 Textual Tasks</a></td>
+    <td><a href="#Visual Tasks">3.2.2.9.2 Visual Tasks</a></td>
+</tr>
 </table>
 
 ## [Survey papers](#content)
