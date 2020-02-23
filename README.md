@@ -79,11 +79,22 @@ Actually, I don not get the dataset. -- 2020.2.23
 6. **Extracting Commonsense Properties from Embeddings with Limited Human Guidance.** ACL, 2018. [paper](https://www.aclweb.org/anthology/P18-2102/) [dataset&code](https://github.com/yangyiben/PCE) [presentation](https://vimeo.com/285805855/) [slide](https://www.aclweb.org/anthology/attachments/P18-2102.Presentation.pdf/)
     
     *Yiben Yang, Larry Birnbaum, Ji-Ping Wang, Doug Downey.* 
+7. **Acquiring Common Sense Spatial Knowledge Through Implicit Spatial Templates.** AAAI, 2018. [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16232) [dataset&code](https://github.com/yangyiben/PCE)
     
-7. **GECKA3D: A 3D Game Engine for Commonsense Knowledge Acquisition.** FLAIRS Conference, 2016. [paper](https://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS16/paper/view/12785) 
+    *Yiben Yang, Larry Birnbaum, Ji-Ping Wang, Doug Downey.* 
+ 8. **ConceptNet 5.5: An Open Multilingual Graph of General Knowledge.** AAAI, 2017. [paper](http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14972) [dataset](http://conceptnet.io/) [code](https://github.com/commonsense/conceptnet5) 
     
+    *Robyn Speer, Joshua Chin, Catherine Havasi.* 
+    
+ 9. **The "Something Something" Video Database for Learning and Evaluating Visual Common Sense.** ICCV, 2017. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8237884) 
+    
+    *	Raghav Goyal, Samira Ebrahimi Kahou, Vincent Michalski, Joanna Materzynska, Susanne Westphal, Heuna Kim, Valentin Haenel, Ingo Fründ, Peter Yianilos, Moritz Mueller-Freitag, Florian Hoppe, Christian Thurau, Ingo Bax, Roland Memisevic.* 
+    
+ 10. **Stating the Obvious: Extracting Visual Common Sense Knowledge.** NAACL, 2016. [paper](https://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS16/paper/view/12785) 
+    *Mark Yatskar, Vicente Ordonez, Ali Farhadi.* 
+    
+ 11. **GECKA3D: A 3D Game Engine for Commonsense Knowledge Acquisition.** FLAIRS Conference, 2016. [paper](https://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS16/paper/view/12785) 
     *Erik Cambria, Tam V. Nguyen, Brian Cheng, Kenneth Kwok, Jose Sepulveda.* 
-    
 ### [Commonsense Knowledge Updating](#content)
 
 ## [Commonsense Making and Explanation](#content)   
