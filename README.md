@@ -10,7 +10,7 @@ A summary of must-read papers for Commonsense
 <tr><td colspan="2"><a href="#Commonsense Knowledge Acquisition">2. Commonsense Knowledge Acquisition</a></td></tr>
 <tr>
     <td>&emsp;<a href="#Commonsense Knowledge Generation">2.1 Commonsense Knowledge Generation</a></td>
-    <td>&ensp;<a href="#Commonsense Knowledge Updating">2.2 Commonsense Knowledge Updating"</a></td>
+    <td>&ensp;<a href="#Commonsense Knowledge Updating">2.2 Commonsense Knowledge Updating</a></td>
 </tr>
 <tr><td colspan="2"><a href="#Commonsense Making and Explanation">3. Commonsense Making and Explanation</a></td></tr> 
 <tr><td>&emsp;<a href="#Direct Sense Making and Explanation">3.1 Direct Sense Making and Explanation</a></td></tr>
@@ -20,7 +20,7 @@ A summary of must-read papers for Commonsense
 </tr>
     <tr>
     <td>&emsp;&emsp;&emsp;<a href="#Pre-trained Language Models">3.2.1.1 Pre-trained Language Models</a></td>
-    <td>&ensp;&emsp;&emsp;<a href="#Commonsense Knowledge Updating">3.2.1.2 Commonsense Knowledge Updating"</a></td>
+    <td>&ensp;<a href="#Event Representation">3.2.1.2 Event Representation</a></td>
 </tr>
 </table>
 
