@@ -33,14 +33,14 @@ A summary of must-read papers for Commonsense
     <td><a href="#Visual Commonsense Reasoning">3.2.2.1.2 Visual Commonsense Reasoning</a></td>
 </tr>
     <tr><td>&emsp;&emsp;&emsp;<a href="#Commonsense Question Answering">3.2.2.2 Commonsense Question Answering</a></td></tr>
-    <tr><td>&emsp;&emsp;&emsp;<a href="#Commonsense Reading Comprehension">3.2.2.3 Commonsense Reading Comprehension</a></td></tr>
+    <td>&emsp;&emsp;&emsp;<a href="#Commonsense Reading Comprehension">3.2.2.3 Commonsense Reading Comprehension</a></tr>
         <tr><td>&emsp;&emsp;&emsp;<a href="#Understanding of Commonsense Stories">3.2.2.4 Understanding of Commonsense Stories</a></td></tr>
-    <tr><td>&emsp;&emsp;&emsp;<a href="#Sentiment Analysis">3.2.2.5 Sentiment Analysis</a></td></tr>
-       <tr><td>&emsp;&emsp;&emsp;<a href="#Sentiment Analysis">3.2.2.6 Dialogue </a></td></tr>
-       <tr><td>&emsp;&emsp;&emsp;<a href="#Sentiment Analysis">3.2.2.7 Abstractive Summarization</a></td></tr>
-     <tr><td>&emsp;&emsp;&emsp;<a href="#Sentiment Analysis">3.2.2.8 Text Generation</a></td></tr>
+    <tr>&emsp;&emsp;&emsp;<a href="#Sentiment Analysis">3.2.2.5 Sentiment Analysis</a></tr>
+       <tr><td>&emsp;&emsp;&emsp;<a href="#Dialogue">3.2.2.6 Dialogue </a></td>
+       <td>&emsp;&emsp;&emsp;<a href="#Abstractive Summarization">3.2.2.7 Abstractive Summarization</a></tr>
+     <tr><td>&emsp;&emsp;&emsp;<a href="#Text Generation">3.2.2.8 Text Generation</a></td></tr>
        <tr>
-    <td>&emsp;&emsp;&emsp;<a href="#Commonsense Reasoning">3.2.2.9 Others</a></td>
+    <td>&emsp;&emsp;&emsp;<a href="#Others">3.2.2.9 Others</a></td>
 </tr>
         <tr>
     <td>&emsp;&emsp;&emsp;<a href="#Textual Taks">3.2.2.9.1 Textual Tasks</a></td>
