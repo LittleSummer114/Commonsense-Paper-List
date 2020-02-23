@@ -1,5 +1,5 @@
-# Commonsense-Reasoning-Paper-List
-A summary of must-read papers for Commonsense Reasoning
+# Commonsense-Paper-List
+A summary of must-read papers for Commonsense
 
 - Contributed by **[Jingyun Xu]**.
 
@@ -7,27 +7,15 @@ A summary of must-read papers for Commonsense Reasoning
 
 <table>
 <tr><td colspan="2"><a href="#survey-papers">1. Survey</a></td></tr> 
-<tr><td colspan="2"><a href="#models">2. Models</a></td></tr>
+<tr><td colspan="2"><a href="#Commonsense Knowledge Acquisition">2. Commonsense Knowledge Acquisition</a></td></tr>
 <tr>
-    <td>&emsp;<a href="#basic-seq2seq-models">2.1 Basic Seq2Seq Models</a></td>
-    <td>&ensp;<a href="#encoding-answers">2.2 Encoding Answers</a></td>
+    <td>&emsp;<a href="#Commonsense Knowledge Generation">2.1 Commonsense Knowledge Generation</a></td>
+    <td>&ensp;<a href="#Commonsense Knowledge Updating">2.2 Commonsense Knowledge Updating"</a></td>
 </tr>
+<tr><td colspan="2"><a href="#Commonsense Making and Explanation">2. Commonsense Making and Explanation</a></td></tr> 
 <tr>
-    <td>&emsp;<a href="#linguistic-features">2.3 Linguistic Features</a></td>
-    <td>&ensp;<a href="#question-specific-rewards">2.4 Question-specific Rewards</a></td>
-</tr>
-<tr>
-    <td>&emsp;<a href="#content-selection">2.5 Content Selection</a></td>
-    <td>&ensp;<a href="#question-type-modeling">2.6 Question Type Modeling</a></td>
-</tr>
-<tr>
-    <td>&emsp;<a href="#encode-wider-contexts">2.7 Encode wider contexts</a></td>
-    <td>&ensp;<a href="#other-directions">2.8 Other Directions</a></td>
-</tr>
-<tr><td colspan="2"><a href="#applications">2. Applications</a></td></tr> 
-<tr>
-    <td>&emsp;<a href="#difficulty-controllable-QG">2.1 Story Generation QG</a></td>
-    <td>&ensp;<a href="#conversational-QG">2.2 Conversational QG</a></td>
+    <td>&emsp;<a href="#Direct Sense Making and Explanation">2.1 Direct Sense Making and Explanation</a></td>
+    <td>&ensp;<a href="#indirect Sense Making ">2.2 Indirect Sense Making </a></td>
 </tr> 
 <tr>
     <td>&emsp;<a href="#asking-special-questions">2.3 Asking special questions</a></td>
