@@ -97,6 +97,9 @@ Actually, I don not get the dataset. -- 2020.2.23
      *Erik Cambria, Tam V. Nguyen, Brian Cheng, Kenneth Kwok, Jose Sepulveda.* 
     
 ### [Commonsense Knowledge Updating](#content)
+ 1. **Joint Reasoning for Multi-Faceted Commonsense Knowledge.** arxiv, 2020. [paper](https://arxiv.org/abs/2001.04170)
+ 
+     *Erik Cambria, Tam V. Nguyen, Brian Cheng, Kenneth Kwok, Jose Sepulveda.* 
 
 ## [Commonsense Making and Explanation](#content)   
 ### [Direct Sense Making and Explanation](#content)
