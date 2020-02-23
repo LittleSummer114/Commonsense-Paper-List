@@ -55,6 +55,11 @@ How to generate knowledge, from scratch (Commonsense Knowledge Generation) ? or 
 1. **ATOMIC: An Atlas of Machine Commonsense for If-Then Reasoning.** AAAI, 2019. [paper](https://aaai.org/ojs/index.php/AAAI/article/view/4160) [dataset](https://homes.cs.washington.edu/~msap/atomic/)
     
     *Maarten Sap, Ronan Le Bras, Emily Allaway, Chandra Bhagavatula, Nicholas Lourie, Hannah Rashkin, Brendan Roof, Noah A. Smith, Yejin Choi.* 
+
+This is a commonsense knowledge base, which cares about the If-Then relations.
+2. **CA-EHN: Commonsense Word Analogy from E-HowNet.** arxiv, 2019. [paper](https://arxiv.org/abs/1908.07218) [dataset](https://github.com/jacobvsdanniel) [Actually, I don not get the dataset. 2020.2.23]
+    
+    *Peng-Hsuan Li, Tsan-Yu Yang, Wei-Yun Ma.* 
     
 ### [Commonsense Knowledge Updating](#content)
 
