@@ -53,6 +53,9 @@ A summary of must-read papers for Commonsense
     *Liangming Pan, Wenqiang Lei, Tat-Seng Chua, Min-Yen Kan.* 
 
 ## [Commonsense Knowledge Acquisition](#content)   
+1. **Recent Advances in Neural Question Generation.** arxiv, 2018. [paper](https://arxiv.org/pdf/1905.08949.pdf)
+    
+    *Liangming Pan, Wenqiang Lei, Tat-Seng Chua, Min-Yen Kan.* 
 
 ### [Basic Seq2Seq Models](#basic-models)
 
