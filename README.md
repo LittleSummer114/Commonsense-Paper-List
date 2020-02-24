@@ -77,6 +77,7 @@ Actually, I don not get the dataset. -- 2020.2.23
     *Frank F. Xu, Bill Y. Lin, Kenny Q. Zhu.* 
     
 6. **Extracting Commonsense Properties from Embeddings with Limited Human Guidance.** ACL, 2018. 
+
 [paper](https://www.aclweb.org/anthology/P18-2102/) [dataset&code](https://github.com/yangyiben/PCE) [presentation](https://vimeo.com/285805855/) [slide](https://www.aclweb.org/anthology/attachments/P18-2102.Presentation.pdf/)
     
     *Yiben Yang, Larry Birnbaum, Ji-Ping Wang, Doug Downey.* 
