@@ -125,8 +125,10 @@ Actually, I don not get the dataset. -- 2020.2.23
 ##### [Commonsense Reasoning](#content)
 ###### [Textual Commonsense Reasoning](#content)
  1. <span id = "WSC">**The Winograd Schema Challenge.**</span> AAAI workshop, 2011. [paper](https://www.aaai.org/ocs/index.php/SSS/SSS11/paper/view/2502/2964)
+ 
      *Hector J. Levesque.* 
  2. <span id = "UDSSM">**Unsupervised Deep Structured Semantic Models for Commonsense Reasoning.**</span> ACL, 2019. [paper](https://www.aclweb.org/anthology/N19-1094.pdf)
+ 
      *Wang, Shuohang and Zhang, Sheng and Shen, Yelong and Liu, Xiaodong and Liu, Jingjing and Gao, Jianfeng and Jiang, Jing.* 
  
 ###### [Visual Commonsense Reasoning](#content)
