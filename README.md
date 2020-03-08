@@ -3,6 +3,28 @@ A summary of must-read papers for Commonsense
 
 - Contributed by **[Jingyun Xu]**.
 
+## Datasets
+
+| Dataset                                          | Task                    | Language        | Size                           |
+| ------------------------------------------------ | ----------------------- | --------------- | ------------------------------ |
+| [Gamper (2000)](#Gamper)                         | Parallel Corpus         | Italian, German | 5m words                       |
+| [Grover et al. (2004)](#Grover)                  | Summarization           | English         | 40 documents, 12k sentences    |
+| [Hoekstra et al. (2007)](#Hoekstra)              | Ontology                | English         | 2378 concepts                  |
+| [Demenko et al. (2008)](#Demenko)                | Speech                  | Polish          | 2h vocal material              |
+| [Cvrcek et al. (2012)](#Cvrcek)                  | Dictionary              | Czech           | 10k entries, 20k terms         |
+| [Fawei et al. (2016)](#Fawei)                    | Question Answering      | English         | 400 questions                  |
+| [Locke et al. (2018)](#Locke)                    | Information Retrieve    | English         | 3m decisions, 2572 assessments |
+| [Araujo et al. (2018)](#Lenerbr)               | Name Entity Recognition | Portuguese      | 70 documents                   |
+| [Kano et al. (2018)](#Kano)                      | IR and QA               | Japanese        | 285 queries, 651 questions     |
+| [Xiao et al. (2018)](#XiaoCAIL2018)              | Judgment Prediction     | Chinese         | 2.68m documents                |
+| [Manor et al. (2019)](#Manor)                    | Summarization           | English         | 505 sets, 175 documents        |
+| [Chalkidis et al. (2019a)](#ChalkidisNeural)     | Judgment Prediction     | English         | 11.5k documents                |
+| [Chalkidis et al. (2019b)](#ChalkidisLargeScale) | Classification          | English         | 57k documents, 4.3k labels     |
+| [Duan et al. (2019)](#Duan)                      | Reading Comprehension   | Chinese         | 50k questions, 10k documents   |
+| [Xiao et al. (2019)](#XiaoCAIL2019)              | Similar Case Matching   | Chinese         | 9k triplets of documents       |
+| [Zhong et al. (2020)](#ZhongJECQA)               | Question Answering      | Chinese         | 30k questions, 80k articles    |
+
+
 ## [Content](#content)
 
 <table>
