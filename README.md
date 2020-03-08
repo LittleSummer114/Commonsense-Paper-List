@@ -8,7 +8,9 @@ A summary of must-read papers for Commonsense
 | Dataset                                          | Task                    | Language        | Size                           |
 | ------------------------------------------------ | ----------------------- | --------------- | ------------------------------ |
 | [The Winograd Schema Challenge (WSC, AAAI workshop, 2011)](#WSC)     | Pronoun Disambiguation      | English | 285 questions        |
-| [Pronoun Disambiguation Problems  (PDP, AAAI workshop, 2011)](#WSC)     | Pronoun Disambiguation      | English | 60 questions        |
+| [Pronoun Disambiguation Problems  (PDP, AAAI workshop, 2011)](#WSC)     | Pronoun Disambiguation   | English | 60 questions        |
+| [Choice of Plausible Alternatives  (COPA, AAAI workshop, 2011)](#COPA)  | Commonsense Causal Reasoning   | English | - questions        |
+
 
 ## Baselines
 
@@ -133,7 +135,10 @@ Actually, I don not get the dataset. -- 2020.2.23
  2. <span id = "UDSSM">**Unsupervised Deep Structured Semantic Models for Commonsense Reasoning.**</span> ACL, 2019. [paper](https://www.aclweb.org/anthology/N19-1094.pdf)
  
      *Wang, Shuohang and Zhang, Sheng and Shen, Yelong and Liu, Xiaodong and Liu, Jingjing and Gao, Jianfeng and Jiang, Jing.* 
+ 3. <span id = "COPA">**Choice of Plausible Alternatives: An Evaluation of Commonsense Causal Reasoning.**</span> AAAI workshop, 2011. [paper] (https://www.aaai.org/ocs/index.php/SSS/SSS11/paper/view/2418/2960)
  
+     *Roemmele, Melissa and Bejan, Cosmin Adrian and Gordon, Andrew S.* 
+
 ###### [Visual Commonsense Reasoning](#content)
 ##### [Commonsense Question Answering](#content)
 ##### [Commonsense Reading Comprehension](#content)
