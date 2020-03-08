@@ -95,11 +95,10 @@ Actually, I don not get the dataset. -- 2020.2.23
     
     *Frank F. Xu, Bill Y. Lin, Kenny Q. Zhu.* 
     
-6. **Extracting Commonsense Properties from Embeddings with Limited Human Guidance.** ACL, 2018. 
-
-[paper](https://www.aclweb.org/anthology/P18-2102/) [dataset&code](https://github.com/yangyiben/PCE) [presentation](https://vimeo.com/285805855/) [slide](https://www.aclweb.org/anthology/attachments/P18-2102.Presentation.pdf/)
+6. **Extracting Commonsense Properties from Embeddings with Limited Human Guidance.** ACL, 2018. [paper](https://www.aclweb.org/anthology/P18-2102/) [dataset&code](https://github.com/yangyiben/PCE) [presentation](https://vimeo.com/285805855/) [slide](https://www.aclweb.org/anthology/attachments/P18-2102.Presentation.pdf/)
     
     *Yiben Yang, Larry Birnbaum, Ji-Ping Wang, Doug Downey.* 
+    
 7. **Acquiring Common Sense Spatial Knowledge Through Implicit Spatial Templates.** AAAI, 2018. [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16232) [dataset&code](https://github.com/gcollell/spatial-commonsense)
     
     *Guillem Collell, Luc Van Gool, Marie-Francine Moens.* 
@@ -145,7 +144,8 @@ Actually, I don not get the dataset. -- 2020.2.23
  3. <span id = "COPA">**Choice of Plausible Alternatives: An Evaluation of Commonsense Causal Reasoning.**</span> AAAI workshop, 2011. [paper](https://www.aaai.org/ocs/index.php/SSS/SSS11/paper/view/2418/2960)
  
      *Roemmele, Melissa and Bejan, Cosmin Adrian and Gordon, Andrew S.* 
-     > The input is a premise, and the output are alternatives of one has casual relation with the premise. The answer is the effect or the cause of the premise. Example:   
+     > The input is a premise, and the output are alternatives of one has casual relation with the premise. The answer is the effect or the cause of the premise.     
+     Example:   
      (forward causal reasoning)         
      Premise: The man lost his balance on the ladder.    
      What happened as a result?   
