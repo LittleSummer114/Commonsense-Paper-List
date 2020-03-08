@@ -9,9 +9,9 @@ A summary of must-read papers for Commonsense
 | ------------------------------------------------ | ----------------------- | --------------- | ------------------------------ |
 | [The Winograd Schema Challenge (WSC, AAAI workshop, 2011)](#WSC)     | Pronoun Disambiguation      | English | 285 questions        |
 | [Pronoun Disambiguation Problems  (PDP, AAAI workshop, 2011)](#WSC)     | Pronoun Disambiguation   | English | 60 questions        |
-| [Choice of Plausible Alternatives  (COPA, AAAI workshop, 2011)](#COPA)  | Commonsense Causal Reasoning   | English | - questions     |
-| [Story Cloze Test (NAACL, 2016)](#Story-Cloze-Test)  | Story Understanding   | English | 49255 stories |
-| [JHU Ordinal Common-sense Inference (JOCI, TACL, 2017)](#JDCI)  | Story Understanding   | English | 49255 stories |
+| [Choice of Plausible Alternatives  (COPA, AAAI workshop, 2011)](#COPA)  | Commonsense Causal Reasoning   | English | -- questions     |
+| [ROCStories (NAACL, 2016)](#Story-Cloze-Test)  | Story Understanding   | English | 49255 stories |
+| [JHU Ordinal Common-sense Inference (JOCI, TACL, 2017)](#JOCI)  | --   | English | -- |
 
 
 
@@ -22,7 +22,8 @@ A summary of must-read papers for Commonsense
 | ------------------------------------------------ | ----------------------- | --------------- | ------------------------------ |
 | [UDSSM (NAACL, 2019)](#UDSSM)     | WSC       | 59.2% (ensemble: 62.4% ) |                        |
 | [UDSSM (NAACL, 2019)](#UDSSM)                         | PDP         | 75% (ensemble: 78.3% ) |                        |
-
+| [IE+MSA(CA) (AAAI, 2019)](#IE+MSA(CA))             | ROCStories    | BLEU-1:0.2682, BLEU-2: 0.0327  |Logic.:1.26                     |
+ 
 ## [Papers](#papers)
 
 <table>
@@ -157,12 +158,7 @@ Actually, I don not get the dataset. -- 2020.2.23
      What was the cause of this?    
      Alternative 1: The assailant struck the man in the head.   
      Alternative 2: The assailant took the man’s wallet. 
- 4. <span id = "Story-Cloze-Test">**A Corpus and Cloze Evaluation for Deeper Understanding of Commonsense Stories.**</span> NAACL, 2016. [paper](https://www.aclweb.org/anthology/N16-1098.pdf) [dataset](http://cs.rochester.edu/nlp/rocstories)
- 
-     *Mostafazadeh, Nasrin and Chambers, Nathanael and He, Xiaodong and Parikh, Devi and Batra, Dhruv and Vanderwende, Lucy and Kohli, Pushmeet and Allen, James.* 
-     
-       > The input is a story, and the output are alternatives of one is the end of the stories.
- 5. <span id = "JOCI">**Ordinal Common-sense Inference.**</span> TACL, 2017. [paper](https://transacl.org/ojs/index.php/tacl/article/view/1082/255) 
+ 4. <span id = "JOCI">**Ordinal Common-sense Inference.**</span> TACL, 2017. [paper](https://transacl.org/ojs/index.php/tacl/article/view/1082/255) 
  
      *Zhang, Sheng and Rudinger, Rachel and Duh, Kevin and Van Durme, Benjamin.* 
      
@@ -171,6 +167,15 @@ Actually, I don not get the dataset. -- 2020.2.23
 ##### [Commonsense Question Answering](#content)
 ##### [Commonsense Reading Comprehension](#content)
 ##### [Understanding of Commonsense Stories](#content)
+ 1. <span id = "Story-Cloze-Test">**A Corpus and Cloze Evaluation for Deeper Understanding of Commonsense Stories.**</span> NAACL, 2016. [paper](https://www.aclweb.org/anthology/N16-1098.pdf) [dataset](http://cs.rochester.edu/nlp/rocstories)
+ 
+     *Mostafazadeh, Nasrin and Chambers, Nathanael and He, Xiaodong and Parikh, Devi and Batra, Dhruv and Vanderwende, Lucy and Kohli, Pushmeet and Allen, James.* 
+     
+       > The input is a story, and the output are alternatives of one is the end of the stories.
+       
+ 2. <span id = "IE+MSA(CA)">**Story Ending Generation with Incremental Encoding and Commonsense Knowledge.**</span> AAAI, 2019. [paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/4612) [code](https://github.com/JianGuanTHU/StoryEndGen.)
+ 
+     *Guan, Jian and Wang, Yansen and Huang, Minlie.* 
 ##### [Sentiment Analysis](#content)
 ##### [Dialogue](#content)
 ##### [Abstractive Summarization](#content)
