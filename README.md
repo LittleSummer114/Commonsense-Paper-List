@@ -136,10 +136,10 @@ Actually, I don not get the dataset. -- 2020.2.23
      *Hector J. Levesque.* 
      > It includes two datasets: Pronoun Disambiguation Problems (PDP) and Winograd Schema Challenge. Example:
      
-     The city councilmen refused the demonstrators a permit because they feared violence.
-     Who feared violence?
+     > The city councilmen refused the demonstrators a permit because they feared violence.
+     > Who feared violence?
      
-     A. The city councilmen B. The demonstrators
+     > A. The city councilmen B. The demonstrators
 
  2. <span id = "UDSSM">**Unsupervised Deep Structured Semantic Models for Commonsense Reasoning.**</span> ACL, 2019. [paper](https://www.aclweb.org/anthology/N19-1094.pdf)
  
