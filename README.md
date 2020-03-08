@@ -9,7 +9,10 @@ A summary of must-read papers for Commonsense
 | ------------------------------------------------ | ----------------------- | --------------- | ------------------------------ |
 | [The Winograd Schema Challenge (WSC, AAAI workshop, 2011)](#WSC)     | Pronoun Disambiguation      | English | 285 questions        |
 | [Pronoun Disambiguation Problems  (PDP, AAAI workshop, 2011)](#WSC)     | Pronoun Disambiguation   | English | 60 questions        |
-| [Choice of Plausible Alternatives  (COPA, AAAI workshop, 2011)](#COPA)  | Commonsense Causal Reasoning   | English | - questions        |
+| [Choice of Plausible Alternatives  (COPA, AAAI workshop, 2011)](#COPA)  | Commonsense Causal Reasoning   | English | - questions     |
+| [Story Cloze Test (NAACL, 2016)](#Story Cloze Test)  | Story Understanding   | English | 49255 stories |
+
+
 
 
 ## Baselines
@@ -131,13 +134,26 @@ Actually, I don not get the dataset. -- 2020.2.23
  1. <span id = "WSC">**The Winograd Schema Challenge.**</span> AAAI workshop, 2011. [paper](https://www.aaai.org/ocs/index.php/SSS/SSS11/paper/view/2502/2964)
  
      *Hector J. Levesque.* 
-     > It includes two datasets: Pronoun Disambiguation Problems (PDP) and Winograd Schema Challenge.
+     > It includes two datasets: Pronoun Disambiguation Problems (PDP) and Winograd Schema Challenge. Example:
+     The city councilmen refused the demonstrators a permit because they feared violence.
+     Who feared violence?
+     A. The city councilmen B. The demonstrators
+
  2. <span id = "UDSSM">**Unsupervised Deep Structured Semantic Models for Commonsense Reasoning.**</span> ACL, 2019. [paper](https://www.aclweb.org/anthology/N19-1094.pdf)
  
      *Wang, Shuohang and Zhang, Sheng and Shen, Yelong and Liu, Xiaodong and Liu, Jingjing and Gao, Jianfeng and Jiang, Jing.* 
- 3. <span id = "COPA">**Choice of Plausible Alternatives: An Evaluation of Commonsense Causal Reasoning.**</span> AAAI workshop, 2011. [paper] (https://www.aaai.org/ocs/index.php/SSS/SSS11/paper/view/2418/2960)
+ 3. <span id = "COPA">**Choice of Plausible Alternatives: An Evaluation of Commonsense Causal Reasoning.**</span> AAAI workshop, 2011. [paper](https://www.aaai.org/ocs/index.php/SSS/SSS11/paper/view/2418/2960)
  
      *Roemmele, Melissa and Bejan, Cosmin Adrian and Gordon, Andrew S.* 
+     > The input is a premise, and the output are alternatives of one has casual relation with the premise. The answer is the effect or the cause of the premise. Example:
+     The city councilmen refused the demonstrators a permit because they feared violence.
+     Who feared violence?
+     A. The city councilmen B. The demonstrators
+ 4. <span id = "Story Cloze Test">**A Corpus and Cloze Evaluation for Deeper Understanding of Commonsense Stories.**</span> NAACL, 2016. [paper](https://www.aclweb.org/anthology/N16-1098.pdf) [dataset](http://cs.rochester.edu/nlp/rocstories)
+ 
+     *Mostafazadeh, Nasrin and Chambers, Nathanael and He, Xiaodong and Parikh, Devi and Batra, Dhruv and Vanderwende, Lucy and Kohli, Pushmeet and Allen, James.* 
+     
+       > The input is a story, and the output are alternatives of one is the end of the stories.
 
 ###### [Visual Commonsense Reasoning](#content)
 ##### [Commonsense Question Answering](#content)
