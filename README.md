@@ -7,13 +7,15 @@ A summary of must-read papers for Commonsense
 
 | Dataset                                          | Task                    | Language        | Size                           |
 | ------------------------------------------------ | ----------------------- | --------------- | ------------------------------ |
-| [The Winograd Schema Challenge (AAAI workshop, 2011)](#WSC)     | Pronoun Disambiguation      | English         | 285questions               |
+| [The Winograd Schema Challenge (WSC, AAAI workshop, 2011)](#WSC)     | Pronoun Disambiguation      | English | 285 questions        |
+| [Pronoun Disambiguation Problems  (PDP, AAAI workshop, 2011)](#WSC)     | Pronoun Disambiguation      | English | 60 questions        |
 
 ## Baselines
 
 | Model                                          | DataSet                    | Performance-1        | Performance-2                           |
 | ------------------------------------------------ | ----------------------- | --------------- | ------------------------------ |
-| [UDSSM (NAACL, 2019)](#UDSSM)                         | WSC         | 59.2% (ensemble: 62.4% ) |                        |
+| [UDSSM (NAACL, 2019)](#UDSSM)     | WSC       | 59.2% (ensemble: 62.4% ) |                        |
+| [UDSSM (NAACL, 2019)](#UDSSM)                         | PDP         | 75% (ensemble: 78.3% ) |                        |
 
 ## [Papers](#papers)
 
@@ -127,6 +129,7 @@ Actually, I don not get the dataset. -- 2020.2.23
  1. <span id = "WSC">**The Winograd Schema Challenge.**</span> AAAI workshop, 2011. [paper](https://www.aaai.org/ocs/index.php/SSS/SSS11/paper/view/2502/2964)
  
      *Hector J. Levesque.* 
+     > It includes two datasets: Pronoun Disambiguation Problems (PDP) and Winograd Schema Challenge.
  2. <span id = "UDSSM">**Unsupervised Deep Structured Semantic Models for Commonsense Reasoning.**</span> ACL, 2019. [paper](https://www.aclweb.org/anthology/N19-1094.pdf)
  
      *Wang, Shuohang and Zhang, Sheng and Shen, Yelong and Liu, Xiaodong and Liu, Jingjing and Gao, Jianfeng and Jiang, Jing.* 
