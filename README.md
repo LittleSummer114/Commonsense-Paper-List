@@ -135,8 +135,10 @@ Actually, I don not get the dataset. -- 2020.2.23
  
      *Hector J. Levesque.* 
      > It includes two datasets: Pronoun Disambiguation Problems (PDP) and Winograd Schema Challenge. Example:
+     
      The city councilmen refused the demonstrators a permit because they feared violence.
      Who feared violence?
+     
      A. The city councilmen B. The demonstrators
 
  2. <span id = "UDSSM">**Unsupervised Deep Structured Semantic Models for Commonsense Reasoning.**</span> ACL, 2019. [paper](https://www.aclweb.org/anthology/N19-1094.pdf)
@@ -146,15 +148,23 @@ Actually, I don not get the dataset. -- 2020.2.23
  
      *Roemmele, Melissa and Bejan, Cosmin Adrian and Gordon, Andrew S.* 
      > The input is a premise, and the output are alternatives of one has casual relation with the premise. The answer is the effect or the cause of the premise. Example:
+     
      (forward causal reasoning)
+     
 Premise: The man lost his balance on the ladder. What
+
 happened as a result?
+
 Alternative 1: He fell off the ladder.
+
 Alternative 2: He climbed up the ladder.
+
 (backwards causal reasoning)
-Premise: The man fell unconscious. What was the cause
-of this?
+
+Premise: The man fell unconscious. What was the cause of this?
+
 Alternative 1: The assailant struck the man in the head.
+
 Alternative 2: The assailant took the man’s wallet. 
 
  4. <span id = "Story-Cloze-Test">**A Corpus and Cloze Evaluation for Deeper Understanding of Commonsense Stories.**</span> NAACL, 2016. [paper](https://www.aclweb.org/anthology/N16-1098.pdf) [dataset](http://cs.rochester.edu/nlp/rocstories)
