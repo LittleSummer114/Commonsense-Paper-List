@@ -9,11 +9,12 @@ A summary of must-read papers for Commonsense
 | ------------------------------------------------ | ----------------------- | --------------- | ------------------------------ |
 | [The Winograd Schema Challenge (WSC, AAAI workshop, 2011)](#WSC)     | Pronoun Disambiguation      | English | 285 questions        |
 | [Pronoun Disambiguation Problems  (PDP, AAAI workshop, 2011)](#WSC)     | Pronoun Disambiguation   | English | 60 questions        |
-| [Choice of Plausible Alternatives  (COPA, AAAI workshop, 2011)](#COPA)  | Commonsense Causal Reasoning   | English | -- questions    |
-| [ROCStories (NAACL, 2016)](#Story-Cloze-Test)  | Story Understanding   | English | 49255 stories |
+| [Choice of Plausible Alternatives  (COPA, AAAI workshop, 2011)](#COPA)  | Commonsense Causal Reasoning   | English | 1k questions    |
+| [ROCStories (NAACL, 2016)](#Story-Cloze-Test)  | Story Understanding   | English | **49255** stories |
 | [JHU Ordinal Common-sense Inference (JOCI, TACL, 2017)](#JOCI)  | --   | English | -- |
-| [Event2Mind (ACL, 2018)](#Event2Mind)  | Commonsense Inference on **Events, Intents, and Reactions**   | English | 24,716 events |
-
+| [Event2Mind (ACL, 2018)](#Event2Mind)  |  Commonsense Inference on **Events, Intents, and Reactions**   | English | 24,716 events |
+| [Swag (EMNLP, 2018)](#Swag)  | Multiple Choice Questions about Grounded Situations.   | English | **113k** multiple choice questions (73k training, 20k validation, 20k test) |
+| [ReCoRD (arxiV, 2018)](#ReCoRD)  | Commonsense Inference on **Events, Intents, and Reactions**   | English | 24,716 events |
 
 ## Baselines
 
@@ -172,15 +173,32 @@ Actually, I don not get the dataset. -- 2020.2.23
      
        > This dataset evaluates commonsense inference on mental states of event participants.   
        Example:
-       Inputs: PersonX reads PersonY's diary   
-       Outputs:
-       PersonX's **intent**: to be nosey, know secrets    
-       PersonX's **reaction**: guilty, curious
+       Inputs:     
+       PersonX reads PersonY's diary       
+       Outputs:     
+       PersonX's **intent**: to be nosey, know secrets        
+       PersonX's **reaction**: guilty, curious    
        PersonY's **reaction**:angry, violated, betrayed
  6. <span id = "KagNet">**KagNet: Knowledge-Aware Graph Networks for Commonsense Reasoning.**</span> EMNLP, 2019. [paper](https://arxiv.org/abs/1909.02151) 
  
      *Bill Yuchen Lin, Xinyue Chen, Jamin Chen, Xiang Ren.* 
+ 7. <span id = "Swag">**SWAG: A Large-Scale Adversarial Dataset for Grounded Commonsense Inference.**</span> EMNLP, 2018. [paper](https://www.aclweb.org/anthology/D18-1009/) [dataset](https://tinyurl.com/event2mind)
+ 
+     *Zellers, Rowan and Bisk, Yonatan and Schwartz, Roy and Choi, Yejin.* 
+ 
+ 8. <span id = "ReCoRD">**ReCoRD: Bridging the Gap between Human and Machine Commonsense Reading Comprehension.**</span> arxiV, 2018. [paper](https://arxiv.org/pdf/1810.12885.pdf) [dataset](https://tinyurl.com/event2mind)
+ 
+     *Sheng Zhang, Xiaodong Liu, Jingjing Liu, Jianfeng Gao, Kevin Duh, Benjamin Van Durme.* 
      
+       > This dataset evaluates commonsense inference on mental states of event participants.   
+       Example:
+       Inputs:     
+       PersonX reads PersonY's diary       
+       Outputs:     
+       PersonX's **intent**: to be nosey, know secrets        
+       PersonX's **reaction**: guilty, curious    
+       PersonY's **reaction**:angry, violated, betrayed
+       
 ###### [Visual Commonsense Reasoning](#content)
 ##### [Commonsense Question Answering](#content)
 ##### [Commonsense Reading Comprehension](#content)
