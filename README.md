@@ -9,11 +9,10 @@ A summary of must-read papers for Commonsense
 | ------------------------------------------------ | ----------------------- | --------------- | ------------------------------ |
 | [The Winograd Schema Challenge (WSC, AAAI workshop, 2011)](#WSC)     | Pronoun Disambiguation      | English | 285 questions        |
 | [Pronoun Disambiguation Problems  (PDP, AAAI workshop, 2011)](#WSC)     | Pronoun Disambiguation   | English | 60 questions        |
-| [Choice of Plausible Alternatives  (COPA, AAAI workshop, 2011)](#COPA)  | Commonsense Causal Reasoning   | English | -- questions     |
+| [Choice of Plausible Alternatives  (COPA, AAAI workshop, 2011)](#COPA)  | Commonsense Causal Reasoning   | English | -- questions    |
 | [ROCStories (NAACL, 2016)](#Story-Cloze-Test)  | Story Understanding   | English | 49255 stories |
 | [JHU Ordinal Common-sense Inference (JOCI, TACL, 2017)](#JOCI)  | --   | English | -- |
-
-
+| [Event2Mind (ACL, 2018)](#Event2Mind)  | Commonsense Inference on **Events, Intents, and Reactions**   | English | 24,716 events |
 
 
 ## Baselines
@@ -22,7 +21,10 @@ A summary of must-read papers for Commonsense
 | ------------------------------------------------ | ----------------------- | --------------- | ------------------------------ |
 | [UDSSM (NAACL, 2019)](#UDSSM)     | WSC       | 59.2% (ensemble: 62.4% ) |                        |
 | [UDSSM (NAACL, 2019)](#UDSSM)                         | PDP         | 75% (ensemble: 78.3% ) |                        |
-| [IE+MSA(CA) (AAAI, 2019)](#IE+MSA(CA))             | ROCStories    | BLEU-1:0.2682, BLEU-2: 0.0327  |Logic.:1.26                     |
+| [IE+MSA(CA) (AAAI, 2019)](#IE+MSA(CA))             | ROCStories    | BLEU-1:0.2682, BLEU-2: 0.0327  |Logic.: 1.26             |
+| [ConvNet (ACL, 2018)](#Event2Mind)             | Event2Mind (baseline)    | Average Cross-Ent: 4.25  |         |
+
+Event2Mind
  
 ## [Papers](#papers)
 
@@ -163,6 +165,22 @@ Actually, I don not get the dataset. -- 2020.2.23
      *Zhang, Sheng and Rudinger, Rachel and Duh, Kevin and Van Durme, Benjamin.* 
      
        > This dataset evaluates commonsense inference by predicting the ordinal likelihood of a hypothesis given a context.
+       
+ 5. <span id = "Event2Mind">**Event2Mind: Commonsense Inference on Events, Intents, and Reactions.**</span> ACL, 2018. [paper](https://www.aclweb.org/anthology/P18-1043.pdf) [dataset](https://tinyurl.com/event2mind)
+ 
+     *Rashkin, Hannah and Sap, Maarten and Allaway, Emily and Smith, Noah A and Choi, Yejin.* 
+     
+       > This dataset evaluates commonsense inference on mental states of event participants.   
+       Example:
+       Inputs: PersonX reads PersonY's diary   
+       Outputs:
+       PersonX's **intent**: to be nosey, know secrets    
+       PersonX's **reaction**: guilty, curious
+       PersonY's **reaction**:angry, violated, betrayed
+ 6. <span id = "KagNet">**KagNet: Knowledge-Aware Graph Networks for Commonsense Reasoning.**</span> EMNLP, 2019. [paper](https://arxiv.org/abs/1909.02151) 
+ 
+     *Bill Yuchen Lin, Xinyue Chen, Jamin Chen, Xiang Ren.* 
+     
 ###### [Visual Commonsense Reasoning](#content)
 ##### [Commonsense Question Answering](#content)
 ##### [Commonsense Reading Comprehension](#content)
