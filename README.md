@@ -134,10 +134,9 @@ Actually, I don not get the dataset. -- 2020.2.23
  1. <span id = "WSC">**The Winograd Schema Challenge.**</span> AAAI workshop, 2011. [paper](https://www.aaai.org/ocs/index.php/SSS/SSS11/paper/view/2502/2964)
  
      *Hector J. Levesque.* 
-     > It includes two datasets: Pronoun Disambiguation Problems (PDP) and Winograd Schema Challenge. Example:
-     
-     > The city councilmen refused the demonstrators a permit because they feared violence.
-     > Who feared violence?
+     > It includes two datasets: Pronoun Disambiguation Problems (PDP) and Winograd Schema Challenge. Example:  
+     The city councilmen refused the demonstrators a permit because they feared violence.  
+     Who feared violence?
      
      > A. The city councilmen B. The demonstrators
 
