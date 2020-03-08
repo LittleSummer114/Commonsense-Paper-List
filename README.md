@@ -11,6 +11,7 @@ A summary of must-read papers for Commonsense
 | [Pronoun Disambiguation Problems  (PDP, AAAI workshop, 2011)](#WSC)     | Pronoun Disambiguation   | English | 60 questions        |
 | [Choice of Plausible Alternatives  (COPA, AAAI workshop, 2011)](#COPA)  | Commonsense Causal Reasoning   | English | - questions     |
 | [Story Cloze Test (NAACL, 2016)](#Story-Cloze-Test)  | Story Understanding   | English | 49255 stories |
+| [JHU Ordinal Common-sense Inference (JOCI, TACL, 2017)](#JDCI)  | Story Understanding   | English | 49255 stories |
 
 
 
@@ -161,7 +162,11 @@ Actually, I don not get the dataset. -- 2020.2.23
      *Mostafazadeh, Nasrin and Chambers, Nathanael and He, Xiaodong and Parikh, Devi and Batra, Dhruv and Vanderwende, Lucy and Kohli, Pushmeet and Allen, James.* 
      
        > The input is a story, and the output are alternatives of one is the end of the stories.
-
+ 5. <span id = "JOCI">**Ordinal Common-sense Inference.**</span> TACL, 2017. [paper](https://transacl.org/ojs/index.php/tacl/article/view/1082/255) 
+ 
+     *Zhang, Sheng and Rudinger, Rachel and Duh, Kevin and Van Durme, Benjamin.* 
+     
+       > This dataset evaluates commonsense inference by predicting the ordinal likelihood of a hypothesis given a context.
 ###### [Visual Commonsense Reasoning](#content)
 ##### [Commonsense Question Answering](#content)
 ##### [Commonsense Reading Comprehension](#content)
