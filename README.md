@@ -24,8 +24,6 @@ A summary of must-read papers for Commonsense
 | [UDSSM (NAACL, 2019)](#UDSSM)                         | PDP         | 75% (ensemble: 78.3% ) |                        |
 | [IE+MSA(CA) (AAAI, 2019)](#IE+MSA(CA))             | ROCStories    | BLEU-1:0.2682, BLEU-2: 0.0327  |Logic.: 1.26             |
 | [ConvNet (ACL, 2018)](#Event2Mind)             | Event2Mind (baseline)    | Average Cross-Ent: 4.25  |         |
-
-Event2Mind
  
 ## [Papers](#papers)
 
