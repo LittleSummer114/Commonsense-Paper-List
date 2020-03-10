@@ -1,4 +1,4 @@
-# Commonsense-Paper-List
+# Natural Language Inference-Paper-List
 A summary of must-read papers for Natural Language Inference 
 
 - Contributed by **[Jingyun Xu]**.
