@@ -2,7 +2,6 @@
 A summary of must-read papers for Math Word Problem
 
 - Contributed by **[Jingyun Xu, Xin Wu]**.
-- :whale2: 取自静云(鲸鱼), :whale2: 的数量仅表示个人喜好的程度 :kissing_heart:, :heart_eyes: 表示想去细读的, :dizzy_face:表示看了，没有完全看懂的。
 
 ## Datasets
 
@@ -25,7 +24,7 @@ A summary of must-read papers for Math Word Problem
 ## [Methods](#content)   
 ### [Seq-Seq Models](#content)
 \# equation normalization \#
-[:whale2::whale2::whale2::whale2:]1. <span id = "NE">**Translating a Math Word Problem to a Expression Tree.**</span> EMNLP, 2018. [paper]() [dataset]()
+1. <span id = "NE">**Translating a Math Word Problem to a Expression Tree.**</span> EMNLP, 2018. [paper]() [dataset]()
 
     *Lei Wang, Yan Wang, Deng Cai, Dongxiang Zhang, Xiaojiang Liu.*
 
@@ -36,13 +35,3 @@ A summary of must-read papers for Math Word Problem
 Question List:
 同样都是Seq-Seq models,为什么用Bi-LSTM作为Encoder再加上NE之后,可以提高7个点?
 ```
-
-
-
-
-
-
-
-
-
-
