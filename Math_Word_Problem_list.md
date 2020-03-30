@@ -35,6 +35,7 @@ A summary of must-read papers for Math Word Problem
 Question List:
 同样都是Seq-Seq models,为什么用Bi-LSTM作为Encoder再加上NE之后,可以提高7个点?
 ```
-![](https://github.com/LittleSummer114/Paper-List/blob/master/images/Math_Word-1.PNG)
+![](https://github.com/LittleSummer114/Paper-List/blob/master/images/Math_Word-1.png)
+
 
 
