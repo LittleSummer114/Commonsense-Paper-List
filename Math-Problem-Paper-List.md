@@ -1,52 +1,42 @@
-# Math-Problem-Paper-List
-A summary of must-read papers for **Math Problem**
+# Math-Word-Problem-Paper-List
+A summary of must-read papers for Math Word Problem
 
-
-- Contributed by **[Jingyun Xu]**, from 2016-, 2020.3.19.
+- Contributed by **[Jingyun Xu, Xin Wu]**.
 - :whale2: 取自静云(鲸鱼), :whale2: 的数量仅表示个人喜好的程度 :kissing_heart:, :heart_eyes: 表示想去细读的, :dizzy_face:表示看了，没有完全看懂的。
 
 ## Datasets
 
 | Dataset                                          | Task                    | Language        | Size                           |
 | ------------------------------------------------ | ----------------------- | --------------- | ------------------------------ |
-
-## Baselines
+| [Math (EMNLP 2017)](#Math)     | 只有1个变量的线性代数题      | English | 23162 questions        |
 
 | Model                                          | DataSet                    | Performance-1        | Performance-2                           |
 | ------------------------------------------------ | ----------------------- | --------------- | ------------------------------ |
+| [NE (EMNLP, 2018)](#NE)             | Math    | ACC: 68.4%  |          |
 
 ## [Papers](#papers)
 ## [Survey papers](#content)
+## [Datasets]()
+1. <span id = "Math">**Deep neural solver for math word problems.** </span>. EMNLP, 2017. [paper]() [dataset]()
 
-## [DataSets: 计算机视觉领域](#content)   
+    *Yan Wang, Xiaojiang Liu, and Shuming Shi.*
 
-\# 我觉得本质上是在做结合文本和知识库的search. \#       
+目前最大的关于数学题的数据集,有23,162条关于线性代数的只有1个未知变量的问题。
+## [Methods](#content)   
+### [Seq-Seq Models](#content)
+\# equation normalization \#
+[:whale2::whale2::whale2::whale2:]1. <span id = "NE">**Translating a Math Word Problem to a Expression Tree.**</span> EMNLP, 2018. [paper]() [dataset]()
 
-12.【:heart_eyes:】 <span id = "">**Explainable High-order Visual Question Reasoning: A New Benchmark and Knowledge-routed Network.**</span> arXiv, 2019. [paper](https://arxiv.org/pdf/1909.10128)
+    *Lei Wang, Yan Wang, Deng Cai, Dongxiang Zhang, Xiaojiang Liu.*
 
-   * Cao, Qingxing and Li, Bailin and Liang, Xiaodan and Lin, Liang.
+这篇论文要解决的问题主要是之前的模型在处理数学问题时没有考虑到等式可以是重复的(e.g., x = x<sub>1</sub>+x<sub>2</sub>也可以写成 x = x<sub>2</sub>+x<sub>1</sub>),而重复的等式会带来输出空间不确定,从而影响基于数据的模型的表现。为了解决这个问题,作者提出了2种Equation Normalization(NE)的方法,在基于三种不同的Seq-Seq模型上进行了实验。
+```
+我自己的理解就是需要更多的数据才能学习到同样的模式的不同的表达方式
 
-```   
-Motivation:   
-这篇论文的作者构建了一个Knowledge-based VQA的数据集,特点是在于以前的数据集涉及到的reasoning是一种first-order reasoning,而这篇论文涉及到multiple inference steps (called high-order), 具体来说,作者构建的数据集要回答的问题是:
-这幅图里面那个男孩子和那个在1948年被引入的物体的关系是什么?
-回答这个问题就需要涉及到2个三元组:
-(1948年引入的物体,?)
-(boy,??,?)    
-
-Question List:    
-1. 作者举的例子求解的是实体对间的关系? 但是实际上多个三元组(a,b,c)和(c,d,e),根据问的实体和关系在所在三元组中的位置,求解的问题可以分为4类:   
-问中间实体,已知a,b,d,e,问c;问两边的实体,已知a,b,c,d,问e;问两边的关系,已知a,b,d,e,问c和a的关系;问开头和结尾的关系(知识图谱补全).
+Question List:
+同样都是Seq-Seq models,为什么用Bi-LSTM作为Encoder再加上NE之后,可以提高7个点?
 ```
 
-```   
-Model:
-输入是(question,image)对,作者的模型由3部分组成:   
-第一部分将question解析成树的形式,获得需要求解的元素(包括间接元素(1948年引入的物体,?)和最终求解元素(boy,??,?)),已知元素及他们之间的关系;      
-第二部分基于knowledge base进行搜索,得到间接元素(1948年引入的物体,?);
-第三部分,基于间接元素和已知元素进行基于image的search,获得最终求解元素(boy,??,?))
-```
-![](https://github.com/LittleSummer114/Natural-Language-Inference-Paper-List/blob/master/images/Visual-1.PNG)
 
 
 
