@@ -1,4 +1,4 @@
-# Natural-Language-Inference-Paper-List
+# Conversational Recommendation-Paper-List
 A summary of must-read papers for **Natural Language Inference**
 
 
@@ -17,6 +17,29 @@ A summary of must-read papers for **Natural Language Inference**
 
 ## [Papers](#papers)
 ## [Survey papers](#content)
+
+1.【:heart_eyes:】 <span id = "HANS">**Advances and Challenges in Conversational Recommender Systems: A Survey.**</span> arXiv, 2021. [paper](https://arxiv.org/pdf/2101.09459.pdf)
+
+   * Chongming Gao and Wenqiang Lei, Xiangnan He, Maarten de Rijkec, and Tat-Seng Chua.
+
+```   
+传统的推荐系统被称作static的推荐系统，他们基于1个假设: 历史交互代表用户偏好，这种假设可能会带来3个严重的问题；
+1. 用户的购买记录并不代表用户就喜欢该物品
+2. 用户对物品的喜欢会随着时间的变化而改变
+3. 对于历史交互比较少的用户，很难建模他们的偏好
+
+传统的推荐系统没有考虑实时的用户记录->考虑了实时的用户记录的推荐系统，是让用户点击是否喜欢物品，效率低下->基于
+
+ a user interface
+ a conversation strategy module
+ a recommendation engine
+
+Question List:
+1. 传统的方法具体是怎么做的？
+2. 对于第3个问题，真的能解决吗?
+3. 
+```
+
 ## [DataSets: 特定问题](#content)      
 
 \#Annotation Artifacts Problem: Datasets\#
