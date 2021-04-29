@@ -20,7 +20,7 @@ A summary of must-read papers for **Natural Language Inference**
 
 1.【:heart_eyes:】 <span id = "HANS">**Advances and Challenges in Conversational Recommender Systems: A Survey.**</span> arXiv, 2021. [paper](https://arxiv.org/pdf/2101.09459.pdf)
 
-   * Chongming Gao and Wenqiang Lei, Xiangnan He, Maarten de Rijkec, and Tat-Seng Chua.
+   * Chongming Gao, Wenqiang Lei, Xiangnan He, Maarten de Rijkec, and Tat-Seng Chua.
 
 ```   
 传统的推荐系统被称作static的推荐系统，他们基于1个假设: 历史交互代表用户偏好，这种假设可能会带来3个严重的问题；
